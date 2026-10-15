@@ -28,6 +28,7 @@ This repository serves as a high-quality collection of AI resources. For the com
 ### ✍️ Content & Writing
 * **[Jasper](https://www.jasper.ai)** - An AI writing assistant built specifically for enterprise marketing and brand voice consistency.
 * **[Perplexity AI](https://www.perplexity.ai)** - An AI-powered answer engine that provides accurate, cited answers to complex questions.
+* **[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)** - AI 만화 번역기는 Ficory LLC가 제공하는 기업급 만화 리더이자 AI 번역 서비스입니다. 개인 사용자는 여러 만화 페이지를 일괄 번역하고 필요에 맞게 맞춤 번역을 설정합니다. 스튜디오 사용자는 완전한 온라인 Photoshop 스타일 편집기로 페이지와 번역문을 다듬습니다. 사용자는 API를 개인 작업 흐름에 연결해 번역을 자동화합니다. 이 제품은 제품이 지원하는 모든 번역 언어를 제공하며 제한된 무료 사용과 유료 크레딧·구독을 함께 운영합니다.
 
 ---
 
